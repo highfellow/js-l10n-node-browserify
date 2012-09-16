@@ -16,7 +16,6 @@
   "main": "l10n-browser.js",
   "keywords": ["l10n","localisation","browser"],
   "scripts": {
-    "install": "build.sh"
   },
   "devDependencies": {
     "browserify": "~1.15.4"
