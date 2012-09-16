@@ -1,0 +1,25 @@
+{
+  "author": "Andrew Baxter <andy@highfellow.org> (http://highfellow.org)",
+  "name": "js-l10n-browser",
+  "description": "Browser adapter for js-l10n",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/highfellow/js-l10n-node-browser.git"
+  },
+  "engines": {
+    "node": "~0.6.10"
+  },
+  "dependencies": {
+    "l10n": "git://github.com/highfellow/js-l10n.git"
+  },
+  "main": "l10n-browser.js",
+  "keywords": ["l10n","localisation","browser"],
+  "scripts": {
+    "install": "build.sh"
+  },
+  "devDependencies": {
+    "browserify": "~1.15.4"
+  },
+  "optionalDependencies": {}
+}
