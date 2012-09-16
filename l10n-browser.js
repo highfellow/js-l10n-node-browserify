@@ -3,8 +3,6 @@
  * (C) 2012 Andrew Baxter <andy@highfellow.org>
  **/
 
-url = require('url');
-
 function L10n_Browser(baseURL) {
   // a class which l10n can use to get the resource loader.
   // baseURL is optionally a non-standard base URL to use when retrieving resources from relative paths.
