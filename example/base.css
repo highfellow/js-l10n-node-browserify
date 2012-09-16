@@ -1,0 +1,17 @@
+
+body {
+    background:white;
+    color: black;
+}
+
+h3 {
+  font-size: 16pt;
+  text-decoration: underline;
+  padding-left: 30px;
+}
+
+ul {
+  font-size: 14pt;
+  text-decoration: none;
+  font-weight: normal;
+}
